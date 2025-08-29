@@ -1,7 +1,7 @@
 <h1 align="center">Hello there!👋, I'm James</h1>
 <h3 align="center">A proficient programmer from Ireland</h3>
 
-- 🔭 I’m in the process of coding a C# text-based game project
+- 🔭 I’m in the process of experimenting with C#
 - 🌱 I’m currently learning **Software and Games Development**
 - 💬 Ask me about my skills, hobbies and thoughts 
 - 📫 How to reach me: email - jameskirby1011@gmail.com, linkedin - https://www.linkedin.com/in/james-kirby-2888b635b 
