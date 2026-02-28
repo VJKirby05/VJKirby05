@@ -4,7 +4,7 @@
 - 🔭 I’m in the process of making projects in both C++ and Java
 - 🌱 I’m currently learning **Software and Games Development**
 - 💬 Ask me about my skills, hobbies and thoughts 
-- 📫 How to reach me: email - jameskirby1011@gmail.com, linkedin - https://www.linkedin.com/in/james-kirby-2888b635b 
+- 📫 How to reach me: email - val42484@gmail.com, linkedin - https://www.linkedin.com/in/james-kirby-2888b635b 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like writing stories too :3
 
